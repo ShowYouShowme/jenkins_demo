@@ -18,6 +18,9 @@ app.get('/api/getUsers', (req, res)=>{
         {
             name : 'marry',
             age  : 18
+        },{
+            name : 'vice',
+            age  : 39
         }
     ])
 });
