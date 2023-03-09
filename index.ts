@@ -24,6 +24,9 @@ app.get('/api/getUsers', (req, res)=>{
         },{
             name : 'honda',
             age  : 50
+        },{
+            name : 'zeus',
+            age  : 1000
         }
     ])
 });
